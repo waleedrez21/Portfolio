@@ -17,3 +17,5 @@ Open `index.html` in a browser. For the best results, serve the folder with any 
 The site is plain HTML, CSS, JavaScript, and static image assets. The main menu includes a direct resume link, and the character panel has email, phone, resume, and LinkedIn contact options.
 
 Background image: `assets/rainy-city-v2.jpg`.
+
+Resume: `assets/resume-v2.pdf`.
