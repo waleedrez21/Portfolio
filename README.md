@@ -15,3 +15,5 @@ Open `index.html` in a browser. For the best results, serve the folder with any 
 5. Deploy. No environment variables or backend are required.
 
 The site is plain HTML, CSS, JavaScript, and static image assets. The main menu includes a direct resume link, and the character panel has email, phone, resume, and LinkedIn contact options.
+
+The resume PDF is linked from the site header and character panel.
