@@ -1,6 +1,6 @@
 # Waleed Shammarez — Portfolio
 
-A static, browser-based portfolio with a rainy game title screen and interactive project menu.
+A static, browser-based portfolio with a rainy game title screen and interactive project menu. Includes a LinkedIn preview image sized to its link-card requirements.
 
 ## Run locally
 
